@@ -1,0 +1,47 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Kalam:wght@300;700&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Muli:wght@200;400;500&family=Permanent+Marker&display=swap');
+
+.footer {
+	display: flex;
+	flex-shrink: 0;
+	width: 100%;
+	height: 50%;	
+	margin-top: 7rem;
+	padding: 1rem;
+	background: rgb(247, 136, 136);
+    background: linear-gradient(270deg, rgba(247, 136, 136, 1) 0%, rgba(243, 210, 80, 1) 100%);
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	
+}
+
+h3 {
+	font-family: 'Permanent Marker', cursive;
+	color: #fff;
+	font-size: 2rem;
+}
+
+h5 {
+	font-size: 1rem;
+	font-weight: 200;
+	line-height: 50%;
+}
+
+.box {
+	margin: 0 auto;
+}
+
+.textbox {
+	font-family: 'Muli', sans-serif;
+	margin: auto;
+	
+	padding: 1rem;
+	/* color: #269622; */
+	color: #fff;
+	text-align: left;
+}
+
+.image {
+	width: 300px;
+}

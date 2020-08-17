@@ -1,0 +1,12 @@
+.formControl {
+	background-color: offwhite;
+	border-radius: 5px;
+	width: 30%;
+	/* margin-top: 2vh !important; */
+	margin-bottom: 53px !important;
+	
+}
+
+option {
+	text-align: center;
+}

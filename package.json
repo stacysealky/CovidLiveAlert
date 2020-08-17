@@ -1,0 +1,32 @@
+{
+  "name": "react-hello-world",
+  "version": "1.0.0",
+  "description": "React Hello World",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "author": "Stacy Sealky Lee",
+  "license": "ISC",
+  "dependencies": {
+    "@material-ui/core": "^4.10.1",
+    "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
+    "classnames": "^2.2.6",
+    "react": "^16.2.0",
+    "react-chartjs-2": "^2.9.0",
+    "react-countup": "^4.3.3",
+    "react-d3": "^0.4.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^2.1.5"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
