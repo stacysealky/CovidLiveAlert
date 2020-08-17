@@ -1,4 +1,6 @@
-# React Project
+# Covid Live Alert - React Project
+
+# Visit my live site at: http://spiffy-mind.surge.sh/
 
 ## Prerequisites
 
